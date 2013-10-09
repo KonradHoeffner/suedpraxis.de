@@ -1,6 +1,5 @@
-﻿<html>
-<head>
 <?php include 'include/header_head.php'; ?>
+<title>Südpraxis Leipzig: Therapeutinnen</title>
 </head>
 <body>
 <?php include 'include/header_body.php'; ?>
@@ -38,7 +37,7 @@ Osteopathin der <a href="http://www.bao-osteopathie.de/">BAO</a></br>
 </center>
 </div>
 
-<div style="width: 50%;margin: 0 auto;">
+<div style="float:right;margin:0 auto">
 <center>
 <img src="img/fuss.png"></br>
 Birgit Gast</br>

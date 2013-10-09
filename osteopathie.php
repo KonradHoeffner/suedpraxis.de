@@ -1,6 +1,5 @@
-﻿<html>
-<head>
 <?php include 'include/header_head.php'; ?>
+<title>Südpraxis Leipzig: Osteopathie</title>
 </head>
 <body>
 <?php include 'include/header_body.php'; ?>

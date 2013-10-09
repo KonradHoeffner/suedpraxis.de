@@ -1,6 +1,5 @@
-﻿<html>
-<head>
 <?php include 'include/header_head.php'; ?>
+<title>Südpraxis Leipzig: Kontakt</title>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script type="text/javascript">
   function initialize() {

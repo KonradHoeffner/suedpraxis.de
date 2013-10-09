@@ -1,5 +1,5 @@
 <body style="background-color:#E0FFC0;">
-
+<header class="mainHeader">
 <div id="head">
 <div style="float:left;">
 <img src="img/praxis.jpg" alt="Foto der Praxis" title="" align="top">
@@ -27,9 +27,8 @@ Steinstraße 11 • 04275 Leipzig</p>
 </div>
 &nbsp;
 
-<div id="navi">
-
-<ul class="sf-menu">
+<nav>
+<ul>
 <!--<li class="current">-->
 <li><a href="index.php">Praxis</a>	
 <li><a href="osteopathie.php">Osteopathie</a></li>
@@ -37,4 +36,5 @@ Steinstraße 11 • 04275 Leipzig</p>
 <li><a href="therapeutinnen.php">Therapeutinnen</a>	
 <li><a href="kontakt.php">Anfahrt & Kontakt</a>	
 </ul>
-</div>
+</nav>
+</header>

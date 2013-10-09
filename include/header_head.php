@@ -1,6 +1,6 @@
-﻿<meta charset="utf-8">
-<title>Südpraxis — Praxisgemeinschaft für Osteopathie und Homöopathie Leipzig</title>
-
+﻿<html lang="de">
+<head>
+<meta charset="utf-8">
 <meta name="description" content="Praxisgemeinschaft für Osteopathie und Homöopathie Leipzig">
 <meta name="keywords" content="Homöopathie,Osteopathie,Leipzig,Gesundheit,Behandlung,Praxis,alternativ,ganzheitlich,bao,Barbara Höffner,Susanne Strzelczyk,Südvorstadt,Südpraxis" lang="de">
 <meta name="author" content="Konrad Höffner">
@@ -12,6 +12,7 @@
 
 
 <link href="include/suedpraxis.css" rel="stylesheet" type="text/css">
+<!--
 <link rel="stylesheet" type="text/css" href="include/superfish.css" media="screen">
 <link rel="stylesheet" href="include/jquery.css" type="text/css" media="screen">
 		<script src="include/ga.js" async="" type="text/javascript"></script>
@@ -58,5 +59,5 @@
 		
 		 
        
-		<!--jQuery(function(){jQuery('ul.sf-menu').superfish();});-->
 </script>
+-->

@@ -1,6 +1,5 @@
-﻿<html>
-<head>
 <?php include 'include/header_head.php'; ?>
+<title>Südpraxis Leipzig: Osteopathie und Homöopathie</title>
 </head>
 <body>
 <?php include 'include/header_body.php'; ?>
@@ -10,7 +9,7 @@
 </br>
 <h1>Herzlich willkommen in unserer Praxisgemeinschaft</h1>
 Wir, eine Osteopathin und eine Homöopathin, wollen mit zwei unterschiedlichen Therapieansätzen die <i>Selbstregulierungskräfte</i> des Organismus anregen und so zur Heilung bringen.
-Je nach Beschwerdebild ist für den einen die <a href="osteopathie.php">Osteopathie</a> und für den anderen die <a href="homoeopathie.php">Homöopathie</a> zum Zeitpunkt der Erkrankung die geeignetere Therapieform.
+Je nach Beschwerdebild ist für den einen Menschen die <a href="osteopathie.php">Osteopathie</a> und für den anderen die <a href="homoeopathie.php">Homöopathie</a> zum Zeitpunkt der Erkrankung die geeignetere Therapieform.
 In bestimmten Fällen können sich Osteopathie und Homöopathie auch ergänzen.
 <h2>Öffungszeiten</h2>
 <!--
