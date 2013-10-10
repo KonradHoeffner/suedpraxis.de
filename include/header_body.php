@@ -1,4 +1,4 @@
-<body style="background-color:#E0FFC0;">
+<body class="body">
 <header class="mainHeader">
 <div id="head">
 <div style="float:left;">
@@ -7,15 +7,14 @@
 <div style="float:right;">
 <img src="img/logo.png" alt="Logo der Suedpraxis" title="" align="top">
 </div>
-<div style="padding-top:50px;">
+<!--<div style="padding-top:50px;">-->
 <center>
-<p style="font-size:3em; margin-left: auto; margin-right: auto;" class="orangetext">Südpraxis</p><!--;margin-top:1.5em;-->
+<p style="font-size:3em; margin-left: auto; margin-right: auto;" class="orangetext">Südpraxis</p>
 <br/>
 <p>Praxisgemeinschaft für</br>
 Osteopathie & Homöopathie</br>
 Steinstraße 11 • 04275 Leipzig</p>
 </center>
-</div>
 
 <!--
 <table>
@@ -23,9 +22,7 @@ Steinstraße 11 • 04275 Leipzig</p>
 <tr><td>Homöopathie</td><td>0176 529&thinsp;672&thinsp;52</td></tr>
 <table>
 -->
-
 </div>
-&nbsp;
 
 <nav>
 <ul>

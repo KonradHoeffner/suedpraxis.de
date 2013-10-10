@@ -1,3 +1,27 @@
+body
+{
+ background-color:#E0FFC0;
+}
+
+body
+{
+ font-family:Tahoma, Geneva, sans-serif;
+ max-width:1000px;
+ clear:both;
+ padding:2%;
+ margin: 0 auto;
+}
+
+#head
+{
+ min-width: 800px;
+}
+
+.mainHeader
+{
+ background-color: #ffffff;
+}
+
 .mainHeader nav
 {
  background-color: #5E4E44;
@@ -7,6 +31,7 @@
 {
  list-style:none;
  display:inline;
+
 /* margin: 0 0 0 4px;
  padding: 0;*/
 }
@@ -18,9 +43,44 @@
  text-decoration:none;
  font-size:1.2em;
  font-weight:bold;
+ white-space:nowrap;
+ padding: 10px 10px;
 }
  
 .mainHeader nav ul li a:hover
 {
  color: rgb(255,170,0);
+}
+
+table td, table th
+{
+ padding-left: 1em;
+}
+
+h1,h2,h3,h4
+{
+ font-family:Tahoma, Geneva, sans-serif;
+}
+
+.orangetext
+{ 
+ color: rgb(255, 170, 0);
+ font-family:Tahoma, Geneva, sans-serif;
+}
+
+#spaltegelb
+{
+        float:left;
+        width:512px;
+        height:5px;
+        margin: 0 auto 0 auto;
+        background-color: #ffaa00;
+}
+
+#spaltegruen
+{
+        float:right;
+        width:512px;
+        height:5px;
+        background-color: #85BD04;
 }
