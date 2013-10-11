@@ -2,28 +2,27 @@
 <header class="mainHeader">
 <div id="head">
 <div style="float:left;">
-<img src="img/praxis.jpg" alt="Foto der Praxis" title="" align="top">
+<img src="img/praxis.jpg" class="logo" alt="Foto der Praxis" title="">
 </div>
 <div style="float:right;">
-<img src="img/logo.png" alt="Logo der Suedpraxis" title="" align="top">
+<img src="img/logo.png" class="logo" alt="Logo der Suedpraxis" title="">
 </div>
-<!--<div style="padding-top:50px;">-->
+<div>
 <center>
-<p style="font-size:3em; margin-left: auto; margin-right: auto;" class="orangetext">Südpraxis</p>
-<br/>
-<p>Praxisgemeinschaft für</br>
-Osteopathie & Homöopathie</br>
+<p style="font-size:3em;padding-top:2%; margin-left: auto; margin-right: auto;" class="orangetext">Südpraxis</p>
+<p>Praxisgemeinschaft für<br/>
+Osteopathie & Homöopathie<br/>
 Steinstraße 11 • 04275 Leipzig</p>
 </center>
 
-<!--
+<?php /*
 <table>
 <tr><td>Osteopathie</td><td>0162 662&thinsp;874&thinsp;1</td></tr>
 <tr><td>Homöopathie</td><td>0176 529&thinsp;672&thinsp;52</td></tr>
 <table>
--->
+*/?>
 </div>
-
+</div>
 <nav>
 <ul>
 <!--<li class="current">-->

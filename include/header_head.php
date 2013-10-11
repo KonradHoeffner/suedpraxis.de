@@ -10,9 +10,8 @@
 
 <!--<link rel="icon" type="image/png" href="img/favicon.png">-->
 
-
 <link href="include/suedpraxis.css" rel="stylesheet" type="text/css">
-<!--
+<?php /*
 <link rel="stylesheet" type="text/css" href="include/superfish.css" media="screen">
 <link rel="stylesheet" href="include/jquery.css" type="text/css" media="screen">
 		<script src="include/ga.js" async="" type="text/javascript"></script>
@@ -30,11 +29,9 @@
 		
 		$(document).ready(function() {
 
-	/* This is basic - uses default settings */
 	
 	$("a#single_image").fancybox();
 	
-	/* Using custom settings */
 	
 	$("a#inline").fancybox({
 		'width'				: 348,
@@ -44,7 +41,6 @@
 		'hideOnContentClick': true
 	});
 
-	/* Apply fancybox to multiple items */
 	
 	$("a.group").fancybox({
 		'transitionIn'	:	'elastic',
@@ -55,9 +51,7 @@
 	});
 	
 	 jQuery('ul.sf-menu').superfish();
-});
-		
-		 
+});				 
        
 </script>
--->
+*/?>

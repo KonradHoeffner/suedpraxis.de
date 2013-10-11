@@ -1,10 +1,10 @@
 <?php include 'include/header_head.php'; ?>
 <title>Südpraxis Leipzig: Osteopathie</title>
 </head>
-<body>
+
 <?php include 'include/header_body.php'; ?>
 <div id="wrapper">
-<div id="spaltegelb" style="width:21%;"></div><div id="spaltegruen" style="width:79%;"></div>
+<!--<div id="spaltegelb" style="width:21%;"></div><div id="spaltegruen" style="width:79%;"></div>-->
 <div align="center" style="padding:10px;"><img src="img/osteopathie.jpg"/></div>
 <h1>Osteopathie</h1>
 
@@ -13,7 +13,7 @@ Die Osteopathie ist eine ganzheitliche Behandlungsmethode, bei der die Diagnose 
 Sie basiert auf der genauen Kenntnis von Anatomie, Physiologie und Biochemie sowie dem Wissen um die Organisation und das Verhalten des Organismus im gesunden und kranken Zustand und während des Genesungsprozesses.
 Der Grundsatz des Begründers der Osteopathie als Wissenschaft, Andrew Taylor Still
 (* 1828 in Virginia; † 1917 in Missouri), lautet <i>&#8222;Leben ist Bewegung&#8220;</i>.
-</br>
+<br/>
 Es gilt herauszufinden, welche Strukturen in ihrer Bewegung eingeschränkt sind, dadurch mangelhaft versorgt werden und sich aufgrund der Unterversorgung krankhafte Symptome entwickeln.
 
 Ist die Bewegungseinschränkung aufgehoben, kann der Körper über seine Selbstheilungskräfte in die Eigenregulation kommen und gesunden.
@@ -43,5 +43,5 @@ Sie müssen gleichberechtigt untersucht und behandelt werden.
 </div>
 
 <?php include 'include/footer.php'; ?>
-</body>
+</>
 </html>

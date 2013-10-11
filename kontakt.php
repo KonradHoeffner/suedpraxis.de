@@ -33,9 +33,9 @@
 </head>
 <?php include 'include/header_body.php'; ?>
 
-<body onload="initialize()" onunload="GUnload()">
+<onload="initialize()" onunload="GUnload()">
 <div id="wrapper">
-<div id="spaltegelb" style="width:64%;"></div><div id="spaltegruen" style="width:36%;"></div>
+<!--<div id="spaltegelb" style="width:64%;"></div><div id="spaltegruen" style="width:36%;"></div>-->
 
 <p>&nbsp;</p>
 <center>
@@ -86,5 +86,5 @@ zu den Fahrplänen der LVB</a>
 </div>
 
 <?php include 'include/footer.php'; ?>
-</body>
+</>
 </html>
