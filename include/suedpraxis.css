@@ -1,12 +1,17 @@
+@charset "UTF-8";
+
+html { overflow-y:scroll; }
+
 body
 {
  background-color:#E0FFC0;
 }
 
+
 body
 {
  font-family:Tahoma, Geneva, sans-serif;
- max-width:1000px;
+ max-width:960px;
  clear:both;
  margin: 0 auto;
 }
@@ -58,6 +63,11 @@ table td, table th
  padding-left: 1em;
 }
 
+h1
+{
+ text-align:center;
+}
+
 h1,h2,h3,h4
 {
  font-family:Tahoma, Geneva, sans-serif;
@@ -97,4 +107,18 @@ h1,h2,h3,h4
  height:550px;
  width:300px;
  padding-left:1%;
+}
+
+.bild1
+{
+ width:450px;
+ float:left;
+ padding-right:30px;
+}
+
+.bild2
+{
+ width:450px;
+ float:left;
+ padding-left:30px;
 }
