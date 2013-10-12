@@ -12,24 +12,31 @@
 Wir, eine Osteopathin und eine Homöopathin, wollen mit zwei unterschiedlichen Therapieansätzen die <i>Selbstregulierungskräfte</i> des Organismus anregen und so zur Heilung bringen.
 Je nach Beschwerdebild ist für den einen Menschen die <a href="osteopathie.php">Osteopathie</a> und für den anderen die <a href="homoeopathie.php">Homöopathie</a> zum Zeitpunkt der Erkrankung die geeignetere Therapieform.
 In bestimmten Fällen können sich Osteopathie und Homöopathie auch ergänzen.
-<h2>Öffungszeiten</h2>
+<h2>Öffnungszeiten</h2>
 <h3>Osteopathie</h3>
-Di, Do, Fr:<br/>
+<table><tr><td>Dienstag, Donnerstag & Freitag</td></tr></table>
 <table>
-<tr><td>12<sup>00</sup> &ndash; 13<sup>00</sup> Uhr</td><td>Akutsprechstunde</td></tr>
-<tr><td>9<sup>00</sup> &ndash; 10<sup>00</sup>, 13<sup>00</sup> &ndash; 18<sup>00</sup> Uhr</td><td>nach vorheriger Terminvereinbarung</td></tr>
+<tr><td></td></tr>
+<tr><td>09.00 &ndash; 10.00 Uhr</td><td>nach Terminvereinbarung</td></tr>
+<tr><td>12.00 &ndash; 13.00 Uhr</td><td>Akutsprechstunde</td></tr>
+<tr><td>13.00 &ndash; 18.00 Uhr</td><td>nach Terminvereinbarung</td></tr>
+<tr><td>Hausbesuche</td><td>nach Vereinbarung</td></tr>
 </table>
-Hausbesuche nach Vereinbarung
+<br/>
 
 <h3>Homöopathie</h3>
-täglich:<br/>
-8<sup>30</sup>&ndash;9<sup>30</sup> Uhr Akutsprechstunde<br/>
-12<sup>00</sup>&ndash;13<sup>00</sup> Uhr Telefonsprechstunde<br/>
-9<sup>30</sup>&ndash;12<sup>00</sup> Uhr, 13<sup>00</sup>&ndash;18<sup>00</sup> Uhr nach nach vorheriger Terminvereinbarung<br/>
-Hausbesuche nach Vereinbarung<br/>
+<table><tr><td>täglich</td></tr></table>
+<table>
+<tr><td></td></tr>
+<tr><td>08.30 &ndash; 09.30 Uhr</td><td>Akutsprechstunde</td></tr>
+<tr><td>09.30 &ndash; 12.00 Uhr</td><td>nach Terminvereinbarung</td></tr>
+<tr><td>12.00 &ndash; 13.00 Uhr</td><td>Telefonsprechstunde</td></tr>
+<tr><td>13.00 &ndash; 18.00 Uhr</td><td>nach Terminvereinbarung</td></tr>
+<tr><td>Hausbesuche</td><td>nach Vereinbarung</td></tr>
+</table>
 <!--
 <table>
-<tr><td>Mo-Fr</td><td>9.<sup>00</sup>-12.<sup>30</sup></td></tr>
+<tr><td>Mo-Fr</td><td>9..00-12..30</td></tr>
 <tr><td></td><td></td></tr>
 </table>-->
 </div>

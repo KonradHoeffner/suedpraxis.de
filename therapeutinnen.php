@@ -26,7 +26,7 @@ Homöopathin<br/>
 </div>
 
 <div class="therapeut">
-<img src="img/susi.jpg">
+<img src="img/susi_kurz.jpg">
 <center>
 Susanne Strzelczyk<br/>
 Physiotherapeutin<br/>

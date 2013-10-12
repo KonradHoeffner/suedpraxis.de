@@ -5,9 +5,13 @@
 <?php include 'include/header_body.php'; ?>
 <div id="wrapper">
 <!--<div id="spaltegelb" style="width:21%;"></div><div id="spaltegruen" style="width:79%;"></div>-->
-<div align="center" style="padding:10px;"><img src="img/osteopathie.jpg"/></div>
+
 <h1>Osteopathie</h1>
 
+<div class=bilder>
+<div class="bild1"><img src="img/osteopathie1.jpg"/></div>
+<div class="bild2"><img src="img/osteopathie2.jpg"/></div>
+</div>
 <p>
 Die Osteopathie ist eine ganzheitliche Behandlungsmethode, bei der die Diagnose und die Therapie mit spezifischen manuellen Techniken erfolgt.
 Sie basiert auf der genauen Kenntnis von Anatomie, Physiologie und Biochemie sowie dem Wissen um die Organisation und das Verhalten des Organismus im gesunden und kranken Zustand und während des Genesungsprozesses.
@@ -36,6 +40,7 @@ Die viscerale Osteopathie beschäftigt sich mit Funktion, Versorgung und Bewegun
 Auf allen drei Ebenen können Störungen vorkommen und sich gegenseitig beeinflussen.
 Sie müssen gleichberechtigt untersucht und behandelt werden.
 </p>
+Weitere Therapieangebote: <b>Taping</b>, <b>Ohrkerzentherapie</b><br/>
 <br/>
 <!--<div id="box">-->
 <a href="http://www.bv-osteopathie.de/de-kostenerstattung.html">Viele Krankenkassen</a> beteiligen sich anteilig an den Kosten der osteopathischen Behandlung (auf Rezept).
