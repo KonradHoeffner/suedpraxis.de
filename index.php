@@ -25,7 +25,7 @@ In bestimmten Fällen können sich Osteopathie und Homöopathie auch ergänzen.
 <br/>
 
 <h3>Homöopathie</h3>
-<table><tr><td>täglich</td></tr></table>
+<table><tr><td>Täglich</td></tr></table>
 <table>
 <tr><td></td></tr>
 <tr><td>08.30 &ndash; 09.30 Uhr</td><td>Akutsprechstunde</td></tr>

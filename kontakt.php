@@ -3,37 +3,41 @@
  <meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 
-<script type="text/javascript">
-  function initialize() {
-    var myLatlng = new google.maps.LatLng(51.318064,12.367407);
-    var myOptions = {
-      zoom: 14,
-      center: myLatlng,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    }
+<script>
+var map;
 
-    var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
 
-   
-        
-    var infowindow = new google.maps.InfoWindow({
-        content: contentString
-    });
 
-    var marker = new google.maps.Marker({
-        position: myLatlng,
+function initialize() {
+
+// Try HTML5 geolocation
+ var  userPos;
+  
+/*
+  if(navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function(position) {
+      var pos = new google.maps.LatLng(position.coords.latitude,
+                                       position.coords.longitude);
+
+      var infowindow = new google.maps.InfoWindow({
         map: map,
-        title: 'Südpraxis'
+        position: pos,
+        content: 'Location found using HTML5.'
+      });
+
+      map.setCenter(pos);
+    }, function() {
+      handleNoGeolocation(true);
     });
-    google.maps.event.addListener(marker, 'click', function() {
-      infowindow.open(map,marker);
-    });
+  } else {
+    // Browser doesn't support Geolocation
+    handleNoGeolocation(false);
   }
 
-</script>
-  <script>
-var map;
-function initialize() {
+function handleGeolocation(error)
+{
+}
+*/
  var myLatlng = new google.maps.LatLng(51.318064,12.367407);
   var mapOptions = {
     zoom: 14,
@@ -57,15 +61,13 @@ function initialize() {
       infowindow.open(map,marker);
     });
 }
-
 google.maps.event.addDomListener(window, 'load', initialize);
-
-    </script>
+</script>
 
 </head>
 <?php include 'include/header_body.php'; ?>
 
-<onload="initialize()" onunload="GUnload()">
+
 <div id="wrapper">
 <!--<div id="spaltegelb" style="width:64%;"></div><div id="spaltegruen" style="width:36%;"></div>-->
 
@@ -84,10 +86,10 @@ Steinstraße 11 &#8226; 04275 Leipzig
 <tr><td></td><td></td><td><a href='mailt&#111;&#58;barba&#37;72&#97;%40&#115;%75&#101;&#37;&#54;4&#112;ra%78%&#54;9s&#46;d%&#54;5'>barba&#114;a&#64;suedpr&#97;xi&#115;&#46;de</a></td></tr>
 </table>
 </center>
-  <div id="map-canvas" style="width:100%;height:500px;"></div>
+  <div id="map-canvas" style="width:100%;height:500px;margin:10px;"></div>
 
 
-<div id="box" style="width:500px;margin: 0 auto;">
+<div class="box" style="width:500px;margin: 0 auto;">
 Öffentliche Verkehrsmittel</br>
 
 Bahn 10 &amp; 11 Haltestelle: HTWK oder K.-Liebknecht-/K.-Eisner-Str.<br/>
