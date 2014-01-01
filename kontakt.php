@@ -80,6 +80,7 @@ Steinstraße 11 &#8226; 04275 Leipzig
 <p></center>
 <center>
 <table  cellpadding="0" cellspacing="0">
+<tr><td>Gemeinschaftspraxis</td><td></td><td>0341&thinsp;264&thinsp;662&thinsp;01</td></tr>
 <tr><td>Osteopathie</td><td>Susanne Strzelczyk</td><td>0162 662&thinsp;874&thinsp;1</td></tr>
 <tr><td></td><td></td><td><a href='ma&#105;lto&#58;%73u%73i&#64;s%75e&#100;p&#114;&#37;61%7&#56;is&#46;%64e'>sus&#105;&#64;sued&#112;r&#97;xis&#46;de</a></td></tr>
 <tr><td>Homöopathie</td><td>Barbara Höffner</td><td>0176 529&thinsp;663&thinsp;01</td></tr>
