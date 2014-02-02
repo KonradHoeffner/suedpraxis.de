@@ -1,13 +1,12 @@
 ﻿<!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="utf-8">
-<meta name="description" content="Praxisgemeinschaft für Osteopathie und Homöopathie Leipzig">
-<meta name="keywords" content="Homöopathie,Osteopathie,Leipzig,Gesundheit,Behandlung,Praxis,alternativ,ganzheitlich,bao,Barbara Höffner,Susanne Strzelczyk,Südvorstadt,Südpraxis" lang="de">
-<meta name="author" content="Konrad Höffner">
-<meta name="publisher" content="Konrad Höffner">
-<meta name="copyright" content="Konrad Höffner">
-<meta name="robots" content="index,follow">
+<meta charset="utf-8"/>
+<meta name="description" content="Praxisgemeinschaft für Osteopathie und Homöopathie Leipzig"/>
+<meta name="keywords" content="Homöopathie,Osteopathie,Leipzig,Gesundheit,Behandlung,Praxis,alternativ,ganzheitlich,bao,Barbara Höffner,Susanne Strzelczyk,Südvorstadt,Südpraxis" lang="de"/>
+<meta name="revisit" content="7 days"/>
+<meta name="author" content="Konrad Höffner"/>
+<meta name="robots" content="index,follow"/>
 
 <!--<link rel="icon" type="image/png" href="img/favicon.png">-->
 
