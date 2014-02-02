@@ -1,4 +1,5 @@
-﻿<html lang="de">
+﻿<!DOCTYPE html>
+<html lang="de">
 <head>
 <meta charset="utf-8">
 <meta name="description" content="Praxisgemeinschaft für Osteopathie und Homöopathie Leipzig">

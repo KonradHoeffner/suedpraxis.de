@@ -39,8 +39,7 @@ In bestimmten Fällen können sich Osteopathie und Homöopathie auch ergänzen.
 <tr><td>Mo-Fr</td><td>9..00-12..30</td></tr>
 <tr><td></td><td></td></tr>
 </table>-->
-</div>
 </article>
+</div>
 <?php include 'include/footer.php'; ?>
-</>
 </html>
