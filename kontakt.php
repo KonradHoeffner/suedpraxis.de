@@ -1,6 +1,6 @@
 <?php include 'include/header_head.php'; ?>
 <title>Südpraxis Leipzig: Kontakt</title>
- <meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
+ <!--<meta name="viewport" content="initial-scale=1.0, user-scalable=yes">-->
  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 
 <script>
