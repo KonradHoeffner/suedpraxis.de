@@ -12,7 +12,8 @@
 <p style="font-size:3em;padding-top:2%; margin-left: auto; margin-right: auto;" class="orangetext">Südpraxis</p>
 <p>Praxisgemeinschaft für<br/>
 Osteopathie & Homöopathie<br/>
-Steinstraße 11 • 04275 Leipzig</p>
+Steinstraße 11 • 04275 Leipzig<br/>
+0341&thinsp;264&thinsp;662&thinsp;01</p>
 </center>
 
 <?php /*
