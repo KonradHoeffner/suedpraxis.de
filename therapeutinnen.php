@@ -18,7 +18,7 @@
 <center>
 <img src="img/barbara.jpg"><br/>
 Dipl.-med. Barbara Höffner<br/>
-Ärztin<br/>
+Ärztin (Studium in Leipzig, Deutschland) <br/>
 Homöopathin<br/>
 <a href='mailt&#111;&#58;barba&#37;72&#97;%40&#115;%75&#101;&#37;&#54;4&#112;ra%78%&#54;9s&#46;d%&#54;5'>barba&#114;a&#64;suedpr&#97;xi&#115;&#46;de</a><br/>
 &#x260E 0176 529&thinsp;663&thinsp;01

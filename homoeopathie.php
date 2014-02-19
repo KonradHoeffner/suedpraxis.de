@@ -16,6 +16,8 @@ Nach dem Prinzip <i>Ähnliches mit Ähnlichem</i> zu heilen werden Arzneimittel 
 Durch Potenzierung werden die Arzneimittel verdünnt und dynamisiert, so dass sie keine toxische Wirkung mehr auf den Körper haben und die Selbstheilungskräfte im Menschen aktiviert werden.
 Grundlage der Behandlung ist eine genaue Anamnese.
 Sehr wichtig ist auch Ihre  Beobachtung der Symptomatik vor und nach der Mittelgabe. 
+
+
 </div>
 <?php include 'include/footer.php'; ?>
 </>

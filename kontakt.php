@@ -77,7 +77,7 @@ Praxisgemeinschaft für<br/> Osteopathie und Homöopathie</p>
 Steinstraße 11 &#8226; 04275 Leipzig
 </p>
 <p>&nbsp;</p>
-<p></center>
+</center>
 <center>
 <table  cellpadding="0" cellspacing="0">
 <tr><td>Gemeinschaftspraxis</td><td></td><td>0341&thinsp;264&thinsp;662&thinsp;01</td></tr>
@@ -91,14 +91,18 @@ Steinstraße 11 &#8226; 04275 Leipzig
 
 
 <div class="box" style="width:500px;margin: 0 auto;">
-Öffentliche Verkehrsmittel</br>
-
+<p>Öffentliche Verkehrsmittel</br>
 Bahn 10 &amp; 11 Haltestelle: HTWK oder K.-Liebknecht-/K.-Eisner-Str.<br/>
 Bus 89 Haltestelle Steinstraße (Ärztehaus Süd)<br/>
 Bus 60 Haltestelle Fockestraße<br/>
 <a href="http://www.lvb.de" target="_blank">
 zu den Fahrplänen der LVB</a>
-</p>
+</p><p>
+Parkmöglichkeiten</br>
+Öffentliche Parkplatze stehen tagsüber in ausreichender Menge in der Straße vor der Praxis zur Verfügung.
+</p><p>
+Hinweis für Behinderte</br>
+Die Praxis befindet sich im Hochparterre, bitte unten klingeln, wir helfen bei der Treppe oder vereinbaren mit ihnen einen Hausbesuch.</p>
 </div>
 </div>
 
