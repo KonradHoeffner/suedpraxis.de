@@ -28,10 +28,8 @@ In bestimmten Fällen können sich Osteopathie und Homöopathie auch ergänzen.
 <table><tr><td>Täglich</td></tr></table>
 <table>
 <tr><td></td></tr>
-<tr><td>08.30 &ndash; 09.30 Uhr</td><td>Akutsprechstunde</td></tr>
-<tr><td>09.30 &ndash; 12.00 Uhr</td><td>nach Terminvereinbarung</td></tr>
-<tr><td>12.00 &ndash; 13.00 Uhr</td><td>Telefonsprechstunde</td></tr>
-<tr><td>13.00 &ndash; 18.00 Uhr</td><td>nach Terminvereinbarung</td></tr>
+<tr><td>09.00 &ndash; 12.00 Uhr</td><td>Akut- und Telefonsprechstunde</td></tr>
+<tr><td>12.00 &ndash; 18.00 Uhr</td><td>nach Vereinbarung</td></tr>
 <tr><td>Hausbesuche</td><td>nach Vereinbarung</td></tr>
 </table>
 <!--
