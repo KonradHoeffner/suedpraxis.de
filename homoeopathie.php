@@ -18,10 +18,10 @@ Durch Potenzierung werden die Arzneimittel verdünnt und dynamisiert, so dass si
 Grundlage der Behandlung ist eine genaue Anamnese.
 Sehr wichtig ist auch Ihre  Beobachtung der Symptomatik vor und nach der Mittelgabe. 
 </p>
-<p>Auch in der Schwangerschaft ist die sanfte Homöopathie ideal!</p>
+<!--<p>Auch in der Schwangerschaft ist die sanfte Homöopathie ideal!</p>-->
 <h2>Kosten</h2>
 Die homöopathische Behandlung ist gezielt auf Sie abgestimmt. Nach der Erstanamnese finden wir dabei  sorgfältig und individuell das für Sie und ihr Beschwerdebild passende Mittel. Wir bieten besondere Tarife für Kinder, Jugendliche, Studenten, Arbeitslose, Rentner sowie Sozialtarife an! Bitte kontaktieren Sie uns, um eine individuelle Vereinbarung zu treffen.</br>
-Viele Krankenkassen erstatten die homöopathische Behandlung ganz oder teilweise!
+<!--Viele Krankenkassen erstatten die homöopathische Behandlung ganz oder teilweise!-->
 <br/><br/>
 <table>
 <tr><td>Erstkonsultation Erwachsene</td><td>180,-€</td></tr>
