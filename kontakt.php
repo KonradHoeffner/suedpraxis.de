@@ -80,10 +80,11 @@ Steinstraße 11 &#8226; 04275 Leipzig
 </center>
 <center>
 <table  cellpadding="0" cellspacing="0">
-<tr><td>Gemeinschaftspraxis</td><td></td><td>0341&thinsp;264&thinsp;662&thinsp;01</td></tr>
-<tr><td>Osteopathie</td><td>Susanne Strzelczyk</td><td>0162 662&thinsp;874&thinsp;1</td></tr>
+<tr><td><b>Praxisgemeinschaft</b></td><td></td><td><b>0341&thinsp;264&thinsp;662&thinsp;01</b> (Festnetz, mit Anrufbeantworter)</td></tr>
+<tr></tr>
+<tr><td>Osteopathie</td><td>Susanne Strzelczyk</td><td>0162 662&thinsp;874&thinsp;1 (mobil)</td></tr>
 <tr><td></td><td></td><td><a href='ma&#105;lto&#58;%73u%73i&#64;s%75e&#100;p&#114;&#37;61%7&#56;is&#46;%64e'>sus&#105;&#64;sued&#112;r&#97;xis&#46;de</a></td></tr>
-<tr><td>Homöopathie</td><td>Barbara Höffner</td><td>0176 529&thinsp;663&thinsp;01</td></tr>
+<tr><td>Homöopathie</td><td>Barbara Höffner</td><td>0176 529&thinsp;663&thinsp;01 (mobil)</td></tr>
 <tr><td></td><td></td><td><a href='mailt&#111;&#58;barba&#37;72&#97;%40&#115;%75&#101;&#37;&#54;4&#112;ra%78%&#54;9s&#46;d%&#54;5'>barba&#114;a&#64;suedpr&#97;xi&#115;&#46;de</a></td></tr>
 </table>
 </center>
