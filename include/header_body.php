@@ -27,7 +27,7 @@ Steinstraße 11 • 04275 Leipzig<br/>
 <nav>
 <ul>
 <!--<li class="current">-->
-<li><a href="index.php">Praxis</a>	
+<li><a href="/">Praxis</a>	
 <li><a href="osteopathie.php">Osteopathie</a></li>
 <li><a href="homoeopathie.php">Homöopathie</a></li>
 <li><a href="therapeutinnen.php">Therapeutinnen</a>	
